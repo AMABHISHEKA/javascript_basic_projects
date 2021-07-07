@@ -1,2 +1,3 @@
 # javascript_essential
-JavaScript examples
+LetsUpgrade Javascript Zero to Hero Assignment Solution Repository.
+
